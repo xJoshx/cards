@@ -1,0 +1,6 @@
+{
+  "name": "NoteBody",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./NoteBody.js"
+}

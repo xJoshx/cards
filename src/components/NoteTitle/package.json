@@ -1,0 +1,6 @@
+{
+  "name": "NoteTitle",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./NotesTitle.js"
+}
